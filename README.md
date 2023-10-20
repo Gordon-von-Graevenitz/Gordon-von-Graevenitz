@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gordon-von-Graevenitz
-- 👀 I’m interested in Web Applications, and Cloud Technologies
-- 🌱 I’m currently learning how to use cloud storage and api's.
+- 👀 I’m passionate about developing beautiful, robust web applications and API's.
 
 <!---
 Gordon-von-Graevenitz/Gordon-von-Graevenitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
