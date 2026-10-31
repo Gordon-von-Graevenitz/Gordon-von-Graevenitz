@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Gordon-von-Graevenitz
+👋 Hi, I’m @Gordon-von-Graevenitz
 
-<!---
-Gordon-von-Graevenitz/Gordon-von-Graevenitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im a Software engineer in Leipzig working primarily with Angular and TypeScript, with full-stack experience in Node.js, Python, C# and SQL.
